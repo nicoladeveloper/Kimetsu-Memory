@@ -3,6 +3,7 @@
 
 Jogo da memória (concentração) que exibe uma grade de cartas viradas para baixo. O jogador clica em duas cartas por vez para revelar imagens — se as imagens coincidirem, elas permanecem viradas para cima; caso contrário, viram de volta. O objetivo é encontrar todos os pares com o menor número de movimentos e no menor tempo possível.
 
+<video src="https://github.com/user-attachments/assets/7e85450c-d17d-430c-a9b6-b82a45f6695c"></video>
 
 Público-alvo: fãs do anime, iniciantes em front-end que querem um projeto prático.
 
