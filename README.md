@@ -31,4 +31,4 @@ HTML5
 
 CSS3 (Flex / Grid e transições)
 
-JavaScript (ES6+)
+JavaScript (ES6)
