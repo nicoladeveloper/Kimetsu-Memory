@@ -20,7 +20,7 @@
 
 **Kimetsu Memory** é um jogo da memória interativo desenvolvido com HTML, CSS e JavaScript puro, inspirado no anime Demon Slayer: Kimetsu no Yaiba. O objetivo é encontrar todos os pares de cartas correspondentes com personagens icônicos da série.
 
-### ✨ Características
+### Características
 
 - 🎯 Mecânica clássica de jogo da memória
 - 🎴 10 cartas (5 pares de personagens)
@@ -43,7 +43,7 @@
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5** - Estrutura da aplicação
 - **CSS3** - Estilização e animações
@@ -57,7 +57,7 @@
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 kimetsu-memory/
@@ -89,18 +89,13 @@ kimetsu-memory/
    git clone https://github.com/seu-usuario/kimetsu-memory.git
    ```
 
-2. **Navegue até o diretório**
-   ```bash
-   cd kimetsu-memory
-   ```
-
 3. **Abra o arquivo HTML**
    - Abra o arquivo `index.html` diretamente no seu navegador
    - Ou use um servidor local (Live Server no VS Code, por exemplo)
 
 ---
 
-## 🎨 Funcionalidades Técnicas
+## Funcionalidades Técnicas
 
 ### Embaralhamento de Cartas
 ```javascript
@@ -120,13 +115,3 @@ if (document.querySelectorAll(".boxMatch").length === person.length) {
 }
 ```
 
-### Efeito de Flip 3D
-- Utiliza `transform: rotateY()` para simular o giro das cartas
-- `backface-visibility: hidden` para ocultar o verso durante a animação
-- Transições suaves de 0.25s
-
----
-
-## 🎯 Personagens Incluídos
-
-- 🔥 **Kyojuro Ren
