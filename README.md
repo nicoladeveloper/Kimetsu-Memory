@@ -31,7 +31,6 @@
 - Interface responsiva e intuitiva
 
 ---
-
 ## 🎮 Como Jogar
 
 1. **Clique em uma carta** para revelá-la
@@ -43,7 +42,7 @@
 
 ---
 
-## Tecnologias Utilizadas
+<h2>Estrutura</h1>
 
 - **HTML5** - Estrutura da aplicação
 - **CSS3** - Estilização e animações
@@ -56,6 +55,7 @@
   - Algoritmo de embaralhamento
 
 
+## Utilizados:
 ### Sistema de Verificação de Pares
 - Armazena até 2 cartas abertas
 - Compara o conteúdo HTML das cartas
