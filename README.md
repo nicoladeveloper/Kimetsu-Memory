@@ -42,18 +42,6 @@
 
 ---
 
-<h2>Estrutura</h1>
-
-- **HTML5** - Estrutura da aplicação
-- **CSS3** - Estilização e animações
-  - Flexbox para layout responsivo
-  - Transform 3D para efeito de flip das cartas
-  - Gradientes e box-shadows para visual atraente
-- **JavaScript (Vanilla)** - Lógica do jogo
-  - Manipulação do DOM
-  - Sistema de eventos
-  - Algoritmo de embaralhamento
-
 
 ## Utilizados:
 ### Sistema de Verificação de Pares
